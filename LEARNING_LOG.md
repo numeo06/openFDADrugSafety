@@ -32,3 +32,19 @@
 - PATCH
 
 ### you can download page contents/ intefaces with security keys using minmal self-documenting code
+
+## requesting an API Key
+### authenticate and identify the specific application or project making request to external service
+
+### needed to increase data limits to a bigger quota. it keeps servers from being overriden by traffic
+
+### need to import os because it reads the .evn which holds the API key
+
+## watch outs
+### shadowing: reusing name and hiding what it refers to
+
+
+# Keys in FAERS report
+## print(len(reports),reports[0].keys())
+
+### one report and the keys are top level fields in one FAERS report.
